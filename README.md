@@ -13,3 +13,8 @@ So given the plain text word “code”, you get the Braille dots:
 `11 10 11 10`<br>
 `00 01 01 01`<br>
 `00 10 00 00`
+
+### Python Setup
+1. Install Python 3.x or latest version.
+2. Open cmd/termial/etc. and use the command `pip install string`.
+
